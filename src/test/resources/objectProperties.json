@@ -1,0 +1,22 @@
+{
+  "AboutUS": {
+    "ObjectProperty": "//*[@id=\"menu-header-menu\"]/li[5]/a",
+    "LocatorType": "xpath"
+  },
+  "AboutUSSubMenu": {
+    "ObjectProperty": "//*[@id=\"menu-header-menu\"]/li[5]/div/ul/li[1]/a",
+    "LocatorType": "xpath"
+  },
+  "MoneyLion": {
+    "ObjectProperty": "/html/body/section[2]/div[2]/a[1]/div[1]",
+    "LocatorType": "xpath"
+  },
+  "verifyScrollElement": {
+    "ObjectProperty": "/html/body/section[2]/div[3]/a/span/span",
+    "LocatorType": "xpath"
+  },
+  "Offices": {
+    "ObjectProperty": "/html/body/section[2]/div[1]/p",
+    "LocatorType": "xpath"
+  }
+}
